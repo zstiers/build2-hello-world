@@ -1,0 +1,7 @@
+project = build2-hello-world
+
+using version
+using config
+using test
+using install
+using dist

@@ -1,0 +1,5 @@
+build2-hello-world
+
+# Testscript output directory (can be symlink).
+#
+test-build2-hello-world
